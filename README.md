@@ -1,3 +1,12 @@
+Hello.
+
+My project took on a previous project whose readme file is just below this paragraph.
+I was asked to teach a computer to play a game using nerual network I chose game 4 in a row.
+The game has already applied the ui and the minmax tree but in my change the game plays with a network of neurons that is always in a learning position instead of a human user.
+
+
+
+
 # Connect-4
 A Project made for educational purposes while studying in Athens University of Economics & Business.
 
